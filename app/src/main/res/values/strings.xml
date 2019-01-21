@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Quizz</string>
+    <string name="activity_login">Login Activity</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="fpwd">Forgot Password?</string>
+    <string name="login">Log In</string>
+    <string name="signup">Not a member? Sign up</string>
+    <string name="name">Name</string>
+    <string name="signupp">SIGN UP</string>
+    <string name="signupopt">Sign up using google</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="topics">Topics</string>
+    <string name="friends">Friends</string>
+    <string name="msgs">Messages</string>
+    <string name="Achievements">Achievements</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Log Out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

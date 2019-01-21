@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/topics"
+            android:icon="@drawable/ic_topics_nav"
+            android:title="@string/topics" />
+        <item
+            android:id="@+id/friends"
+            android:icon="@drawable/ic_friends_nav"
+            android:title="@string/friends" />
+        <item
+            android:id="@+id/msgs"
+            android:icon="@drawable/ic_nav_message"
+            android:title="@string/msgs" />
+        <item
+            android:id="@+id/achievements"
+            android:icon="@drawable/ic_nav_achievements"
+            android:title="@string/Achievements" />
+        <item
+            android:id="@+id/settings"
+            android:icon="@drawable/ic_nav_settings"
+            android:title="@string/settings" />
+        <item
+            android:id="@+id/log_out"
+            android:icon="@drawable/ic_logout"
+            android:title="@string/logout" />
+    </group>
+
+
+</menu>
